@@ -1,0 +1,16 @@
+C:\Users\vf202\source\repos\prac1\bin\Debug\net5.0\prac1.exe
+C:\Users\vf202\source\repos\prac1\bin\Debug\net5.0\prac1.deps.json
+C:\Users\vf202\source\repos\prac1\bin\Debug\net5.0\prac1.runtimeconfig.json
+C:\Users\vf202\source\repos\prac1\bin\Debug\net5.0\prac1.runtimeconfig.dev.json
+C:\Users\vf202\source\repos\prac1\bin\Debug\net5.0\prac1.dll
+C:\Users\vf202\source\repos\prac1\bin\Debug\net5.0\ref\prac1.dll
+C:\Users\vf202\source\repos\prac1\bin\Debug\net5.0\prac1.pdb
+C:\Users\vf202\source\repos\prac1\obj\Debug\net5.0\prac1.csproj.AssemblyReference.cache
+C:\Users\vf202\source\repos\prac1\obj\Debug\net5.0\prac1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vf202\source\repos\prac1\obj\Debug\net5.0\prac1.AssemblyInfoInputs.cache
+C:\Users\vf202\source\repos\prac1\obj\Debug\net5.0\prac1.AssemblyInfo.cs
+C:\Users\vf202\source\repos\prac1\obj\Debug\net5.0\prac1.csproj.CoreCompileInputs.cache
+C:\Users\vf202\source\repos\prac1\obj\Debug\net5.0\prac1.dll
+C:\Users\vf202\source\repos\prac1\obj\Debug\net5.0\ref\prac1.dll
+C:\Users\vf202\source\repos\prac1\obj\Debug\net5.0\prac1.pdb
+C:\Users\vf202\source\repos\prac1\obj\Debug\net5.0\prac1.genruntimeconfig.cache

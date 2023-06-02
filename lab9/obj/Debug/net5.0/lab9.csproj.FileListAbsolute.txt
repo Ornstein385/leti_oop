@@ -1,0 +1,16 @@
+C:\Users\vf202\source\repos\lab9\obj\Debug\net5.0\lab9.csproj.AssemblyReference.cache
+C:\Users\vf202\source\repos\lab9\obj\Debug\net5.0\lab9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vf202\source\repos\lab9\obj\Debug\net5.0\lab9.AssemblyInfoInputs.cache
+C:\Users\vf202\source\repos\lab9\obj\Debug\net5.0\lab9.AssemblyInfo.cs
+C:\Users\vf202\source\repos\lab9\obj\Debug\net5.0\lab9.csproj.CoreCompileInputs.cache
+C:\Users\vf202\source\repos\lab9\bin\Debug\net5.0\lab9.exe
+C:\Users\vf202\source\repos\lab9\bin\Debug\net5.0\lab9.deps.json
+C:\Users\vf202\source\repos\lab9\bin\Debug\net5.0\lab9.runtimeconfig.json
+C:\Users\vf202\source\repos\lab9\bin\Debug\net5.0\lab9.runtimeconfig.dev.json
+C:\Users\vf202\source\repos\lab9\bin\Debug\net5.0\lab9.dll
+C:\Users\vf202\source\repos\lab9\bin\Debug\net5.0\ref\lab9.dll
+C:\Users\vf202\source\repos\lab9\bin\Debug\net5.0\lab9.pdb
+C:\Users\vf202\source\repos\lab9\obj\Debug\net5.0\lab9.dll
+C:\Users\vf202\source\repos\lab9\obj\Debug\net5.0\ref\lab9.dll
+C:\Users\vf202\source\repos\lab9\obj\Debug\net5.0\lab9.pdb
+C:\Users\vf202\source\repos\lab9\obj\Debug\net5.0\lab9.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\vf202\source\repos\lab7_4\bin\Debug\net5.0\lab7_4.exe
+C:\Users\vf202\source\repos\lab7_4\bin\Debug\net5.0\lab7_4.deps.json
+C:\Users\vf202\source\repos\lab7_4\bin\Debug\net5.0\lab7_4.runtimeconfig.json
+C:\Users\vf202\source\repos\lab7_4\bin\Debug\net5.0\lab7_4.runtimeconfig.dev.json
+C:\Users\vf202\source\repos\lab7_4\bin\Debug\net5.0\lab7_4.dll
+C:\Users\vf202\source\repos\lab7_4\bin\Debug\net5.0\ref\lab7_4.dll
+C:\Users\vf202\source\repos\lab7_4\bin\Debug\net5.0\lab7_4.pdb
+C:\Users\vf202\source\repos\lab7_4\obj\Debug\net5.0\lab7_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vf202\source\repos\lab7_4\obj\Debug\net5.0\lab7_4.AssemblyInfoInputs.cache
+C:\Users\vf202\source\repos\lab7_4\obj\Debug\net5.0\lab7_4.AssemblyInfo.cs
+C:\Users\vf202\source\repos\lab7_4\obj\Debug\net5.0\lab7_4.csproj.CoreCompileInputs.cache
+C:\Users\vf202\source\repos\lab7_4\obj\Debug\net5.0\lab7_4.dll
+C:\Users\vf202\source\repos\lab7_4\obj\Debug\net5.0\ref\lab7_4.dll
+C:\Users\vf202\source\repos\lab7_4\obj\Debug\net5.0\lab7_4.pdb
+C:\Users\vf202\source\repos\lab7_4\obj\Debug\net5.0\lab7_4.genruntimeconfig.cache

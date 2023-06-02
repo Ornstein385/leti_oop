@@ -1,0 +1,16 @@
+C:\Users\vf202\source\repos\lab6_3\bin\Debug\net5.0\lab6_3.exe
+C:\Users\vf202\source\repos\lab6_3\bin\Debug\net5.0\lab6_3.deps.json
+C:\Users\vf202\source\repos\lab6_3\bin\Debug\net5.0\lab6_3.runtimeconfig.json
+C:\Users\vf202\source\repos\lab6_3\bin\Debug\net5.0\lab6_3.runtimeconfig.dev.json
+C:\Users\vf202\source\repos\lab6_3\bin\Debug\net5.0\lab6_3.dll
+C:\Users\vf202\source\repos\lab6_3\bin\Debug\net5.0\ref\lab6_3.dll
+C:\Users\vf202\source\repos\lab6_3\bin\Debug\net5.0\lab6_3.pdb
+C:\Users\vf202\source\repos\lab6_3\obj\Debug\net5.0\lab6_3.csproj.AssemblyReference.cache
+C:\Users\vf202\source\repos\lab6_3\obj\Debug\net5.0\lab6_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vf202\source\repos\lab6_3\obj\Debug\net5.0\lab6_3.AssemblyInfoInputs.cache
+C:\Users\vf202\source\repos\lab6_3\obj\Debug\net5.0\lab6_3.AssemblyInfo.cs
+C:\Users\vf202\source\repos\lab6_3\obj\Debug\net5.0\lab6_3.csproj.CoreCompileInputs.cache
+C:\Users\vf202\source\repos\lab6_3\obj\Debug\net5.0\lab6_3.dll
+C:\Users\vf202\source\repos\lab6_3\obj\Debug\net5.0\ref\lab6_3.dll
+C:\Users\vf202\source\repos\lab6_3\obj\Debug\net5.0\lab6_3.pdb
+C:\Users\vf202\source\repos\lab6_3\obj\Debug\net5.0\lab6_3.genruntimeconfig.cache

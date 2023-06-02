@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "lab5_1": {
+      "commandName": "Project",
+      "commandLineArgs": "in.txt"
+    }
+  }
+}
