@@ -12,7 +12,7 @@ abstract class Furniture
     public int Length { get; set; }
     public string Material { get; set; }
 
-    public Furniture(int width, int height, int length, string material)
+    protected Furniture(int width, int height, int length, string material)
     {
         Width = width;
         Height = height;
@@ -33,7 +33,7 @@ class Table : Furniture, IMovable
 
     public void Move(int x, int y, int z)
     {
-        // Логика перемещения стола
+        Console.WriteLine($"Стол передвинули в точку ({x}, {y}, {z})");
     }
 }
 
@@ -49,7 +49,7 @@ class Chair : Furniture, IMovable
 
     public void Move(int x, int y, int z)
     {
-        // Логика перемещения стула
+        Console.WriteLine($"Стул передвинули в точку ({x}, {y}, {z})");
     }
 }
 
@@ -65,7 +65,7 @@ class Cupboard : Furniture, IMovable
 
     public void Move(int x, int y, int z)
     {
-        // Логика перемещения шкафа
+        Console.WriteLine($"Шкаф передвинули в точку ({x}, {y}, {z})");
     }
 }
 
@@ -81,16 +81,19 @@ class Sofa : Furniture, IMovable
 
     public void Move(int x, int y, int z)
     {
-        // Логика перемещения дивана
+        Console.WriteLine($"Диван передвинули в точку ({x}, {y}, {z})");
     }
+}
 
+class Tester
+{
     static void Main(string[] args)
     {
         // Создаем объекты мебели
-        Table table = new Table(100, 80, 120, "дерево", 4);
-        Chair chair = new Chair(40, 60, 40, "металл", true);
-        Cupboard cupboard = new Cupboard(200, 220, 60, "дерево", 2);
-        Sofa sofa = new Sofa(200, 120, 80, "ткань", 3);
+        Table table = new Table(140, 80, 120, "дерево", 4);
+        Chair chair = new Chair(50, 60, 50, "металл", true);
+        Cupboard cupboard = new Cupboard(150, 220, 60, "пластик", 2);
+        Sofa sofa = new Sofa(250, 120, 80, "ткань", 3);
 
         // Выводим информацию о мебели
         Console.WriteLine($"Ширина стола: {table.Width}");
@@ -122,9 +125,9 @@ class Sofa : Furniture, IMovable
         Console.WriteLine();
 
         // Перемещаем мебель
-        table.Move(10, 20, 0);
-        chair.Move(-5, 10, 0);
-        cupboard.Move(0, -15, 0);
-        sofa.Move(20, -10, 0);
+        table.Move(10, 25, 0);
+        chair.Move(-5, 150, 0);
+        cupboard.Move(30, -15, 0);
+        sofa.Move(120, -10, 0);
     }
 }

@@ -1,0 +1,16 @@
+C:\Users\vf202\source\repos\oop_kr_modelling\bin\Debug\net5.0\oop_kr_modelling.exe
+C:\Users\vf202\source\repos\oop_kr_modelling\bin\Debug\net5.0\oop_kr_modelling.deps.json
+C:\Users\vf202\source\repos\oop_kr_modelling\bin\Debug\net5.0\oop_kr_modelling.runtimeconfig.json
+C:\Users\vf202\source\repos\oop_kr_modelling\bin\Debug\net5.0\oop_kr_modelling.runtimeconfig.dev.json
+C:\Users\vf202\source\repos\oop_kr_modelling\bin\Debug\net5.0\oop_kr_modelling.dll
+C:\Users\vf202\source\repos\oop_kr_modelling\bin\Debug\net5.0\ref\oop_kr_modelling.dll
+C:\Users\vf202\source\repos\oop_kr_modelling\bin\Debug\net5.0\oop_kr_modelling.pdb
+C:\Users\vf202\source\repos\oop_kr_modelling\obj\Debug\net5.0\oop_kr_modelling.csproj.AssemblyReference.cache
+C:\Users\vf202\source\repos\oop_kr_modelling\obj\Debug\net5.0\oop_kr_modelling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vf202\source\repos\oop_kr_modelling\obj\Debug\net5.0\oop_kr_modelling.AssemblyInfoInputs.cache
+C:\Users\vf202\source\repos\oop_kr_modelling\obj\Debug\net5.0\oop_kr_modelling.AssemblyInfo.cs
+C:\Users\vf202\source\repos\oop_kr_modelling\obj\Debug\net5.0\oop_kr_modelling.csproj.CoreCompileInputs.cache
+C:\Users\vf202\source\repos\oop_kr_modelling\obj\Debug\net5.0\oop_kr_modelling.dll
+C:\Users\vf202\source\repos\oop_kr_modelling\obj\Debug\net5.0\ref\oop_kr_modelling.dll
+C:\Users\vf202\source\repos\oop_kr_modelling\obj\Debug\net5.0\oop_kr_modelling.pdb
+C:\Users\vf202\source\repos\oop_kr_modelling\obj\Debug\net5.0\oop_kr_modelling.genruntimeconfig.cache
